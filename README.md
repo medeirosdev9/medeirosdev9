@@ -4,7 +4,7 @@
 
 <h4 align="left">Meu nome é Gabriel Leite Medeiros, sou de Jaraguá do Sul/SC, tenho 18 anos e tenho muito interesse por tecnologia e programação.</h4>
 
----
+
 
 ## 🌟 **Especialidades** 🎲
 
@@ -28,10 +28,6 @@
 - _Desenvolvimento Ágil_: Aplicação de metodologias ágeis como Scrum e Kanban para entrega rápida e de qualidade.
 - _Integração de Sistemas_: Conexão entre diferentes sistemas para troca de dados e otimização de processos.
 - _Testes Automatizados_: Implementação de testes para garantir a qualidade e estabilidade do código durante o desenvolvimento.
-
-
----
-
 
 
 ###
