@@ -83,13 +83,12 @@
 
 ## 📊 Estatísticas do GitHub
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosdev9&show_icons=true&theme=dark" /></td>
-    <td><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev9&layout=compact&theme=dark" /></td>
+    <td style="border: none;"><img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosdev9&show_icons=true&theme=dark" /></td>
+    <td style="border: none;"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev9&layout=compact&theme=dark" /></td>
   </tr>
 </table>
-
 
 
 
