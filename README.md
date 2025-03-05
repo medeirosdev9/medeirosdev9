@@ -80,17 +80,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
+
+
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td><img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosdev9&show_icons=true&theme=dark" /></td>
-    <td><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev9&layout=compact&theme=dark" /></td>
-  </tr>
-</table>
-
-
-
+<div style="display: flex; gap: 10px;">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosdev9&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev9&layout=compact&theme=dark" />
+</div>
 
 
 ###
