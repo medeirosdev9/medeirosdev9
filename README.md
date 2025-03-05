@@ -110,7 +110,6 @@
 
 ###
 
-[![Spotify](https://novatorem-mcy3qt2ln-gabriel-leite-medeiros-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hge3olejiecsbqbgfwqmgf77yq)
 
 
 ###
