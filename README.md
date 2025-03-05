@@ -82,12 +82,12 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MedeirosTheDev9&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MedeirosTheDev9&theme=radical" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosdev9&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=medeirosdev9&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev9&layout=compact&theme=dark" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosTheDev9&layout=compact&theme=radical)
 
 
 ###
