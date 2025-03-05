@@ -9,21 +9,28 @@
 ## 🌟 **Especialidades** 🎲
 
 ### 📒 **Backend**
-- **Java**
+- **Java**  
+  _A robusta linguagem de programação orientada a objetos, utilizada para o desenvolvimento de aplicações de alto desempenho._
 
 ### 💾 **Frontend**
-- **Next.js**
+- **Next.js**  
+  _Framework React para renderização do lado do servidor, permitindo a criação de aplicativos web rápidos e otimizados._
 
 ### 🔎 **Banco de Dados**
-- **MySQL**
+- **MySQL**  
+  _Sistema de gerenciamento de banco de dados relacional, muito utilizado por sua flexibilidade e alto desempenho em projetos de grande escala._
 
 ### ⚙️ **APIs**
-- **RESTful**
+- **RESTful**  
+  _Arquitetura de APIs que utiliza métodos HTTP e é amplamente adotada pela simplicidade e escalabilidade._
+
+---
 
 ✨ **Outras Habilidades**:
-- Desenvolvimento Ágil
-- Integração de Sistemas
-- Testes Automatizados
+- _Desenvolvimento Ágil_: Metodologias para garantir entrega contínua e eficiente.
+- _Integração de Sistemas_: Habilidade em conectar diferentes sistemas de maneira eficaz.
+- _Testes Automatizados_: Garantia de qualidade no código através de testes consistentes e automatizados.
+
 
 ###
 
