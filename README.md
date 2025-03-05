@@ -6,11 +6,29 @@
 
 ###
 
-<h2 align="left">Especialidades 🎲</h2>
+## 🌟 **Especialidades** 🎲
 
-###
+<div align="center">
+  <h3 style="font-size: 24px; font-weight: bold; color: #4A90E2;">📒 **Backend**</h3>
+  <p style="font-size: 20px; color: #333;">Java</p>
+  
+  <h3 style="font-size: 24px; font-weight: bold; color: #34D399;">💾 **Frontend**</h3>
+  <p style="font-size: 20px; color: #333;">Next.js</p>
 
-<h3 align="left">📒 Backend - Java<br>💾 Frontend - Next<br>🔎 Banco de dados - MySql<br>⚙️ API'S Rest full</h3>
+  <h3 style="font-size: 24px; font-weight: bold; color: #F59E0B;">🔎 **Banco de Dados**</h3>
+  <p style="font-size: 20px; color: #333;">MySQL</p>
+
+  <h3 style="font-size: 24px; font-weight: bold; color: #FB923C;">⚙️ **APIs**</h3>
+  <p style="font-size: 20px; color: #333;">RESTful</p>
+</div>
+
+---
+
+✨ **Outras Habilidades**:
+- _Desenvolvimento Ágil_
+- _Integração de Sistemas_
+- _Testes Automatizados_
+
 
 ###
 
@@ -90,7 +108,6 @@
   </tr>
 </table>
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api/spotify?user=31hge3olejiecsbqbgfwqmgf77yq)](https://spotify.com)
 
 ###
 
