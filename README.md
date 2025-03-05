@@ -122,13 +122,14 @@
   <a href="https://www.instagram.com/gabrieelmedeiross" target="_blank" style="outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https:www.linkedin.com/in/gabriel-leite-medeiros-211b53354" target="_blank" style="outline: none; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/gabriel-leite-medeiros-211b53354" target="_blank" style="outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/47991262173" target="_blank" style="outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
+
 
 
 
