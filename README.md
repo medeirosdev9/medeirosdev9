@@ -8,27 +8,22 @@
 
 ## 🌟 **Especialidades** 🎲
 
-<div align="center">
-  <h3 style="font-size: 24px; font-weight: bold; color: #4A90E2;">📒 **Backend**</h3>
-  <p style="font-size: 20px; color: #333;">Java</p>
-  
-  <h3 style="font-size: 24px; font-weight: bold; color: #34D399;">💾 **Frontend**</h3>
-  <p style="font-size: 20px; color: #333;">Next.js</p>
+### 📒 **Backend**
+- **Java**
 
-  <h3 style="font-size: 24px; font-weight: bold; color: #F59E0B;">🔎 **Banco de Dados**</h3>
-  <p style="font-size: 20px; color: #333;">MySQL</p>
+### 💾 **Frontend**
+- **Next.js**
 
-  <h3 style="font-size: 24px; font-weight: bold; color: #FB923C;">⚙️ **APIs**</h3>
-  <p style="font-size: 20px; color: #333;">RESTful</p>
-</div>
+### 🔎 **Banco de Dados**
+- **MySQL**
 
----
+### ⚙️ **APIs**
+- **RESTful**
 
 ✨ **Outras Habilidades**:
-- _Desenvolvimento Ágil_
-- _Integração de Sistemas_
-- _Testes Automatizados_
-
+- Desenvolvimento Ágil
+- Integração de Sistemas
+- Testes Automatizados
 
 ###
 
