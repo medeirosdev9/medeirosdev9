@@ -8,7 +8,7 @@
 
 ## 🌟 **Especialidades** 🎲
 
-📒 **Backend**  
+### 📒 **Backend**  
 #### **Java**  
 > **Java** é uma das linguagens mais poderosas para desenvolvimento de sistemas robustos, com ampla utilização em servidores, aplicações empresariais e sistemas distribuídos.  
 
