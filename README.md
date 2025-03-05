@@ -90,8 +90,7 @@
   </tr>
 </table>
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api/spotify)](https://spotify.com)
-
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api/spotify?user=31hge3olejiecsbqbgfwqmgf77yq)](https://spotify.com)
 
 ###
 
