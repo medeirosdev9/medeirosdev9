@@ -4,7 +4,7 @@
 
 <h4 align="left">Meu nome é Gabriel Leite Medeiros, sou de Jaraguá do Sul/SC, tenho 18 anos e tenho muito interesse por tecnologia e programação 🎋</h4>
 
-###
+---
 
 ## 🌟 **Especialidades** 🎲
 
