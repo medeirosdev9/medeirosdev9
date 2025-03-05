@@ -80,6 +80,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MedeirosTheDev9&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MedeirosTheDev9&theme=radical" />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosTheDev9&layout=compact&theme=radical)
+
+
 ###
 
 <h2 align="left">Como me encontrar? 👀</h2>
