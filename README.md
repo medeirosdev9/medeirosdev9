@@ -2,34 +2,36 @@
 
 ###
 
-<h4 align="left">Meu nome é Gabriel Leite Medeiros, sou de Jaraguá do Sul/SC, tenho 18 anos e tenho muito interesse por tecnologia e programação 🎋</h4>
+<h4 align="left">Meu nome é Gabriel Leite Medeiros, sou de Jaraguá do Sul/SC, tenho 18 anos e tenho muito interesse por tecnologia e programação.</h4>
 
 ---
 
 ## 🌟 **Especialidades** 🎲
 
-### 📒 **Backend**
-- **Java**  
-  _A robusta linguagem de programação orientada a objetos, utilizada para o desenvolvimento de aplicações de alto desempenho._
+### 📒 **Backend**  
+#### **Java**  
+> **Java** é uma das linguagens mais poderosas para desenvolvimento de sistemas robustos, com ampla utilização em servidores, aplicações empresariais e sistemas distribuídos.  
 
-### 💾 **Frontend**
-- **Next.js**  
-  _Framework React para renderização do lado do servidor, permitindo a criação de aplicativos web rápidos e otimizados._
+### 💾 **Frontend**  
+#### **Next.js**  
+> **Next.js** é um framework React focado em performance, com recursos como renderização do lado do servidor, otimização automática de imagens, e geração de páginas estáticas e dinâmicas.
 
-### 🔎 **Banco de Dados**
-- **MySQL**  
-  _Sistema de gerenciamento de banco de dados relacional, muito utilizado por sua flexibilidade e alto desempenho em projetos de grande escala._
+### 🔎 **Banco de Dados**  
+#### **MySQL**  
+> **MySQL** é um sistema de gerenciamento de banco de dados relacional altamente eficiente, amplamente usado por empresas de diversos tamanhos para armazenar grandes volumes de dados com segurança e integridade.
 
-### ⚙️ **APIs**
-- **RESTful**  
-  _Arquitetura de APIs que utiliza métodos HTTP e é amplamente adotada pela simplicidade e escalabilidade._
+### ⚙️ **APIs**  
+#### **RESTful**  
+> **RESTful** é uma arquitetura para desenvolvimento de APIs que permite uma comunicação simples, escalável e de fácil manutenção entre sistemas, baseada no protocolo HTTP.
+
+✨ **Outras Habilidades**:
+- _Desenvolvimento Ágil_: Aplicação de metodologias ágeis como Scrum e Kanban para entrega rápida e de qualidade.
+- _Integração de Sistemas_: Conexão entre diferentes sistemas para troca de dados e otimização de processos.
+- _Testes Automatizados_: Implementação de testes para garantir a qualidade e estabilidade do código durante o desenvolvimento.
+
 
 ---
 
-✨ **Outras Habilidades**:
-- _Desenvolvimento Ágil_: Metodologias para garantir entrega contínua e eficiente.
-- _Integração de Sistemas_: Habilidade em conectar diferentes sistemas de maneira eficaz.
-- _Testes Automatizados_: Garantia de qualidade no código através de testes consistentes e automatizados.
 
 
 ###
