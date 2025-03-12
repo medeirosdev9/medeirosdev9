@@ -4,11 +4,10 @@
 
 <h2 align="left">🌟 <strong>Especialidades</strong> 🎲</h2>
 
-### **Backend** - Java  
-### **Frontend** - Next.js  
-### **Banco de Dados** - MySQL  
-### **APIs** - RESTful
-
+**📒 Backend** - Java  
+**💾 Frontend** - Next.js  
+**🔎 Banco de Dados** - MySQL  
+**⚙️ APIs** - RESTful
 
 <h2 align="left">Tecnologias dominantes ♨️</h2>
 
