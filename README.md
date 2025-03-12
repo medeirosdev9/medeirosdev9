@@ -6,16 +6,16 @@
 
 <div align="left">
   <h3>📒 <strong>Backend</strong></h3>
-  <p><strong>Java</strong>: Java é uma das linguagens mais poderosas para desenvolvimento de sistemas robustos.</p>
+  <p><strong>Java</strong></p>
   
   <h3>💾 <strong>Frontend</strong></h3>
-  <p><strong>Next.js</strong>: Next.js é um framework React focado em performance, com recursos como renderização do lado do servidor e otimização automática de imagens.</p>
+  <p><strong>Next.js</strong></p>
 
   <h3>🔎 <strong>Banco de Dados</strong></h3>
-  <p><strong>MySQL</strong>: MySQL é um sistema de gerenciamento de banco de dados relacional altamente eficiente, amplamente utilizado em empresas.</p>
+  <p><strong>MySQL</strong></p>
 
   <h3>⚙️ <strong>APIs</strong></h3>
-  <p><strong>RESTful</strong>: Arquitetura para desenvolvimento de APIs simples, escaláveis e de fácil manutenção.</p>
+  <p><strong>RESTful</strong></p>
 </div>
 
 <h2 align="left">Tecnologias dominantes ♨️</h2>
