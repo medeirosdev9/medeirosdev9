@@ -14,7 +14,7 @@
   <h3>🔎 <strong>Banco de Dados</strong></h3>
   <h2><strong>MySQL</strong></h2>
 
-  <h3>⚙️ <strong>APIs</strong></h3> <h2><strong>RESTful</strong></h2>
+  <h3>⚙️ <strong>APIs <h2><strong>RESTful</strong></h2> </strong></h3> 
 </div>
 
 <h2 align="left">Tecnologias dominantes ♨️</h2>
