@@ -6,16 +6,15 @@
 
 <div align="left">
   <h3>📒 <strong>Backend</strong></h3>
-  <p><strong>Java</strong></p>
+  <h2><strong>Java</strong></h2>
   
   <h3>💾 <strong>Frontend</strong></h3>
-  <p><strong>Next.js</strong></p>
+  <h2><strong>Next.js</strong></h2>
 
   <h3>🔎 <strong>Banco de Dados</strong></h3>
-  <p><strong>MySQL</strong></p>
+  <h2><strong>MySQL</strong></h2>
 
-  <h3>⚙️ <strong>APIs</strong></h3>
-  <p><strong>RESTful</strong></p>
+  <h3>⚙️ <strong>APIs</strong></h3> <h2><strong>RESTful</strong></h2>
 </div>
 
 <h2 align="left">Tecnologias dominantes ♨️</h2>
