@@ -4,17 +4,26 @@
 
 <h2 align="left">🌟 <strong>Especialidades</strong> 🎲</h2>
 
-<div align="left">
-  <h3>📒 <strong>Backend</strong></h3>
-  <h2><strong>Java</strong></h2>
-  
-  <h3>💾 <strong>Frontend</strong></h3>
-  <h2><strong>Next.js</strong></h2>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="margin-right: 20px; text-align: center;">
+    <h3>📒 <strong>Backend</strong></h3>
+    <h2><strong>Java</strong></h2>
+  </div>
 
-  <h3>🔎 <strong>Banco de Dados</strong></h3>
-  <h2><strong>MySQL</strong></h2>
+  <div style="margin-right: 20px; text-align: center;">
+    <h3>💾 <strong>Frontend</strong></h3>
+    <h2><strong>Next.js</strong></h2>
+  </div>
 
-  <h3>⚙️ <strong>APIs <h2><strong>RESTful</strong></h2> </strong></h3> 
+  <div style="margin-right: 20px; text-align: center;">
+    <h3>🔎 <strong>Banco de Dados</strong></h3>
+    <h2><strong>MySQL</strong></h2>
+  </div>
+
+  <div style="text-align: center;">
+    <h3>⚙️ <strong>APIs</strong></h3>
+    <h2><strong>RESTful</strong></h2>
+  </div>
 </div>
 
 <h2 align="left">Tecnologias dominantes ♨️</h2>
