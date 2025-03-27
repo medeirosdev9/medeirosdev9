@@ -9,7 +9,7 @@
 **🔎 Banco de Dados** - MySQL  
 **⚙️ APIs** - RESTful
 
-<h2 align="left">Tecnologias dominantes ♨️</h2>
+<h2 align="left">Tecnologias♨️</h2>
 
 <div align="left">
   <a href="https://aws.amazon.com/" target="_blank">
