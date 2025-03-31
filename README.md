@@ -90,7 +90,7 @@
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MedeirosTheDev9&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=medeirosdev9&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="left">Como me encontrar? 👀</h2>
 
