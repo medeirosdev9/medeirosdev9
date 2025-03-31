@@ -1,6 +1,6 @@
-<h1 align="left">Olá, meu nome é Gabriel 🙋‍♂️</h1>
+<h1 align="left">Olá, meu nome é Gabriel!🙋‍♂️</h1>
 
-<h4 align="left">Meu nome é Gabriel Leite Medeiros, sou de Jaraguá do Sul/SC, tenho 18 anos e tenho muito interesse por tecnologia e programação.</h4>
+<h4 align="left">Me chamo Gabriel Leite Medeiros, tenho 18 anos e sou de Jaraguá do Sul/SC. Gosto muito de tecnologia e programação e sempre busco aprender e evoluir nas áreas de desenvolvimento e inovação.</h4>
 
 <h2 align="left">🌟 <strong>Especialidades</strong> 🎲</h2>
 
