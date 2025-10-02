@@ -128,6 +128,12 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/medeirosdev9
 </a>
 
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/medeirosdev9"> 🔗
+  https://gitfollio.vercel.app/medeirosdev9
+</a>
+
 <!-- GitFolio:start
 {
   "gitfolio": "on",
